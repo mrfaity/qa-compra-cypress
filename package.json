@@ -1,0 +1,12 @@
+{
+  "name": "qa-compra-cypress",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portfólio QA de André Junior: fluxo de compra no SauceDemo",
+  "scripts": {
+    "test": "cypress run",
+    "test:open": "cypress open",
+    "test:checkout": "cypress run --spec cypress/e2e/checkout.cy.js"
+  },
+  "devDependencies": { "cypress": "16.3.0" }
+}
