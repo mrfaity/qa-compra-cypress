@@ -16,7 +16,7 @@ Em 17/11/2026, os **8 cenários passaram**, sem falhas, pendências ou cenários
 | `carrinho.cy.js` | 1 | 1 |
 | `checkout.cy.js` | 4 | 4 |
 
-[Resumo original da execução](resultado-execucao.png) · [Vídeo de login](evidencia-login.mp4) · [Vídeo de checkout](evidencia-checkout.mp4)
+[Registro do resultado](VALIDACAO.md) · [Vídeo de login](login.cy.js.mp4) · [Vídeo de checkout](<checkout.cy.js (2).mp4>)
 
 Os vídeos acompanham a execução; o resumo do terminal é a evidência do resultado consolidado. Não foi fornecido vídeo do cenário de carrinho.
 
